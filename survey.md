@@ -9,7 +9,7 @@ Fill out the answers to these questions on Canvas:
 	d. Medical and Health Sciences (Precision Health, Epidemiology, Genomics)
 4. Please describe your background in probabilty and statistics.
 5. Please describe your background in programming and computer science.
-6. Please rate your familiarity with the following courses (Never studied / Studied but rusty / Comfortable)
+6. Please rate your familiarity with the following courses (Never studied / Studied but rusty / Comfortable):
 	a. Calculus I
 	b. Probability and Random Processes
 	c. Introduction to Statistics
