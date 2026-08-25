@@ -10,14 +10,16 @@ Fill out the answers to these questions on Canvas:
 4. Please describe your background in probabilty and statistics.
 5. Please describe your background in programming and computer science.
 6. Please rate your familiarity with the following courses (Never studied / Studied but rusty / Comfortable):
+   
 	a. Calculus I
 	b. Probability and Random Processes
 	c. Introduction to Statistics
 	d. Linear Algebra
 	e. Introduction to Programming
-7. How do you currently use generative AI tools, if at all? 
-8. Is there anything you would particularly like to learn, or become better able to do, in this course?
-9. Please read the following quotations:
+
+8. How do you currently use generative AI tools, if at all? 
+9. Is there anything you would particularly like to learn, or become better able to do, in this course?
+10. Please read the following quotations:
 
 - “The mind, once stretched by a new idea, never returns to its original dimensions” – Oliver Wendell Holmes, Sr.
 - “Civilization advances by extending the number of important operations which we can perform without thinking about them.” – Alfred North Whitehead
