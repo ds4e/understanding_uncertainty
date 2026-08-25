@@ -1,3 +1,4 @@
+Fill out the answers to these questions on Canvas:
 
 1. What is your computing ID?
 2. What is your GitHub ID?
