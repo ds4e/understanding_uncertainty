@@ -23,4 +23,5 @@ Fill out the answers to these questions on Canvas:
 - “Civilization advances by extending the number of important operations which we can perform without thinking about them.” – Alfred North Whitehead
 
 Explain what you think each quotation means. Do they conflict? Complement one another? Both? How does the increasing use of AI shape your answer?
+
 10. Do you have any concerns you would like me to be aware of?
